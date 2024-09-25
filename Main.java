@@ -5,5 +5,6 @@ public class Main()
         System.out.println("Kim EunChong");
         World.run();
         World.run2();
+        Hello.run();
     }
 }
